@@ -1,0 +1,4 @@
+PORTFOLIO PLACEHOLDER
+
+Replace this file with the approved portfolio PDF and update the navigation
+links from "portfolio-placeholder.txt" to the final PDF filename.
