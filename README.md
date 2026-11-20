@@ -13,8 +13,7 @@ Open `http://localhost:4173`.
 ## Site assets
 
 The supplied landing-page, About, performance and gallery images are wired into
-their matching sections. Replace `portfolio-placeholder.txt` with the final
-portfolio PDF and update the four navigation links.
+their matching sections. The navigation downloads the included portfolio PDF.
 
 ## Publish with GitHub Pages
 
